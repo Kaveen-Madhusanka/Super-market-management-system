@@ -1,0 +1,5 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\bin\Release\SMMS.UserMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\bin\Release\SMMS.UserMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\obj\Release\SMMS.UserMGT.Domain.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\obj\Release\SMMS.UserMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\obj\Release\SMMS.UserMGT.Domain.pdb

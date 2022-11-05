@@ -1,0 +1,6 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Domain\bin\Debug\SMMS.HRIMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Domain\bin\Debug\SMMS.HRIMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Domain\obj\Debug\SMMS.HRIMGT.Domain.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Domain\obj\Debug\SMMS.HRIMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Domain\obj\Debug\SMMS.HRIMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Domain\obj\Debug\SMMS.HRIMGT.Domain.csproj.AssemblyReference.cache

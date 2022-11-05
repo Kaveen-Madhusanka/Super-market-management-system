@@ -1,0 +1,5 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.Domain\bin\Release\SMMS.IMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.Domain\bin\Release\SMMS.IMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.Domain\obj\Release\SMMS.IMGT.Domain.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.Domain\obj\Release\SMMS.IMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.Domain\obj\Release\SMMS.IMGT.Domain.pdb

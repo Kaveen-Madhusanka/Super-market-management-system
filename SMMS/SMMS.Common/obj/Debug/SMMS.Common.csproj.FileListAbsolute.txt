@@ -1,0 +1,6 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.Common\bin\Debug\SMMS.Common.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.Common\bin\Debug\SMMS.Common.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.Common\obj\Debug\SMMS.Common.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.Common\obj\Debug\SMMS.Common.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.Common\obj\Debug\SMMS.Common.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.Common\obj\Debug\SMMS.Common.csproj.AssemblyReference.cache

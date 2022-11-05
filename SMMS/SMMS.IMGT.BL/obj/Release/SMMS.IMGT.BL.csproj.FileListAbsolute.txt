@@ -1,0 +1,13 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\bin\Release\SMMS.IMGT.BL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\bin\Release\SMMS.IMGT.BL.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\bin\Release\SMMS.IMGT.DAL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\bin\Release\SMMS.IMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\bin\Release\SMMS.Common.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\bin\Release\SMMS.IMGT.DAL.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\bin\Release\SMMS.IMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\bin\Release\SMMS.Common.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\obj\Release\SMMS.IMGT.BL.csprojAssemblyReference.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\obj\Release\SMMS.IMGT.BL.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\obj\Release\SMMS.IMGT.BL.csproj.CopyComplete
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\obj\Release\SMMS.IMGT.BL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.BL\obj\Release\SMMS.IMGT.BL.pdb

@@ -1,0 +1,11 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\bin\Release\SMMS.HRIMGT.DAL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\bin\Release\SMMS.HRIMGT.DAL.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\bin\Release\SMMS.Common.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\bin\Release\SMMS.HRIMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\bin\Release\SMMS.Common.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\bin\Release\SMMS.HRIMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\obj\Release\SMMS.HRIMGT.DAL.csprojAssemblyReference.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\obj\Release\SMMS.HRIMGT.DAL.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\obj\Release\SMMS.HRIMGT.DAL.csproj.CopyComplete
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\obj\Release\SMMS.HRIMGT.DAL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.DAL\obj\Release\SMMS.HRIMGT.DAL.pdb

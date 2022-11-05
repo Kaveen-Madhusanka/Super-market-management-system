@@ -1,0 +1,17 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\SMMS.HRIMGT.Views.dll.config
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\SMMS.HRIMGT.Views.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\SMMS.HRIMGT.Views.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\Newtonsoft.Json.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\SMMS.Common.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\SMMS.HRIMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\System.Net.Http.Formatting.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\SMMS.Common.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\SMMS.HRIMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\Newtonsoft.Json.xml
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\bin\Release\System.Net.Http.Formatting.xml
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\obj\Release\SMMS.HRIMGT.Views.frmEmployee.resources
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\obj\Release\SMMS.HRIMGT.Views.csproj.GenerateResource.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\obj\Release\SMMS.HRIMGT.Views.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\obj\Release\SMMS.HRIMGT.Views.csproj.CopyComplete
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\obj\Release\SMMS.HRIMGT.Views.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.Views\obj\Release\SMMS.HRIMGT.Views.pdb

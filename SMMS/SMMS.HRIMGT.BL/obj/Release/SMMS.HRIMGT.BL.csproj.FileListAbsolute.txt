@@ -1,0 +1,13 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\bin\Release\SMMS.HRIMGT.BL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\bin\Release\SMMS.HRIMGT.BL.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\bin\Release\SMMS.HRIMGT.DAL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\bin\Release\SMMS.HRIMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\bin\Release\SMMS.Common.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\bin\Release\SMMS.HRIMGT.DAL.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\bin\Release\SMMS.HRIMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\bin\Release\SMMS.Common.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\obj\Release\SMMS.HRIMGT.BL.csprojAssemblyReference.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\obj\Release\SMMS.HRIMGT.BL.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\obj\Release\SMMS.HRIMGT.BL.csproj.CopyComplete
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\obj\Release\SMMS.HRIMGT.BL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.HRIMGT.BL\obj\Release\SMMS.HRIMGT.BL.pdb

@@ -1,0 +1,6 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.Domain\bin\Debug\SMMS.SalesMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.Domain\bin\Debug\SMMS.SalesMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.Domain\obj\Debug\SMMS.SalesMGT.Domain.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.Domain\obj\Debug\SMMS.SalesMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.Domain\obj\Debug\SMMS.SalesMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.Domain\obj\Debug\SMMS.SalesMGT.Domain.csproj.AssemblyReference.cache

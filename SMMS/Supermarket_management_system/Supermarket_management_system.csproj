@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{83701708-1F4B-4F64-B4FB-C2136FF640F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Supermarket_management_system</RootNamespace>
+    <AssemblyName>Supermarket_management_system</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Designs\ThemeColor.cs" />
+    <Compile Include="frmEMGTHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEMGTHome.Designer.cs">
+      <DependentUpon>frmEMGTHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIMGTHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIMGTHome.Designer.cs">
+      <DependentUpon>frmIMGTHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoad.Designer.cs">
+      <DependentUpon>frmLoad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportsHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportsHome.Designer.cs">
+      <DependentUpon>frmReportsHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSettings.Designer.cs">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsersAreaHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsersAreaHome.Designer.cs">
+      <DependentUpon>frmUsersAreaHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmEMGTHome.resx">
+      <DependentUpon>frmEMGTHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIMGTHome.resx">
+      <DependentUpon>frmIMGTHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoad.resx">
+      <DependentUpon>frmLoad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportsHome.resx">
+      <DependentUpon>frmReportsHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSettings.resx">
+      <DependentUpon>frmSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsersAreaHome.resx">
+      <DependentUpon>frmUsersAreaHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\UserArea.png" />
+    <None Include="Resources\Lock.png" />
+    <None Include="Resources\UserName.png" />
+    <None Include="Resources\Maximize.png" />
+    <None Include="Resources\minimize.png" />
+    <None Include="Resources\Settings.png" />
+    <None Include="Resources\Reports.png" />
+    <None Include="Resources\Sales.png" />
+    <None Include="Resources\stock.png" />
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\close-line.png" />
+    <None Include="Resources\Employee.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\GoldenGroceryLogo.png" />
+    <None Include="Resources\GoldenGroceryLogo1.png" />
+    <None Include="Resources\Account.png" />
+    <None Include="Resources\Email.png" />
+    <Content Include="Resources\icon_Loader.gif" />
+    <Content Include="Resources\KMS Logo.PNG" />
+    <Content Include="Resources\KMSLOGO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SMMS.Common\SMMS.Common.csproj">
+      <Project>{8CA4C32E-8C50-4CCE-8D14-CA26A18634F0}</Project>
+      <Name>SMMS.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SMMS.HRIMGT.Domain\SMMS.HRIMGT.Domain.csproj">
+      <Project>{414B333D-9961-44D7-BFA1-BD763B879A8D}</Project>
+      <Name>SMMS.HRIMGT.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SMMS.HRIMGT.Views\SMMS.HRIMGT.Views.csproj">
+      <Project>{64AD59F4-073C-4826-9FDE-CD14D65A7DC3}</Project>
+      <Name>SMMS.HRIMGT.Views</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SMMS.IMG.Views\SMMS.IMG.Views.csproj">
+      <Project>{d0c7eecd-edd1-4f0d-9598-5f38d43b3cc7}</Project>
+      <Name>SMMS.IMG.Views</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SMMS.IMGT.Domain\SMMS.IMGT.Domain.csproj">
+      <Project>{DC733C0A-52D5-4480-90D1-241BC609A24E}</Project>
+      <Name>SMMS.IMGT.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SMMS.SalesMGT.Views\SMMS.SalesMGT.Views.csproj">
+      <Project>{8F12CE2E-F89F-47F3-87F7-F13A765AB27F}</Project>
+      <Name>SMMS.SalesMGT.Views</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SMMS.UserMGT.Domain\SMMS.UserMGT.Domain.csproj">
+      <Project>{60F24D9F-DE0B-4EE1-81E9-E2C5C1CB6EF7}</Project>
+      <Name>SMMS.UserMGT.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SMMS.UserMGT.Views\SMMS.UserMGT.Views.csproj">
+      <Project>{4C7264FB-7A18-40AF-8BAE-530F54C279DC}</Project>
+      <Name>SMMS.UserMGT.Views</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

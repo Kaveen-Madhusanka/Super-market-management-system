@@ -1,0 +1,13 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\bin\Release\SMMS.UserMGT.BL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\bin\Release\SMMS.UserMGT.BL.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\bin\Release\SMMS.Common.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\bin\Release\SMMS.UserMGT.DAL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\bin\Release\SMMS.UserMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\bin\Release\SMMS.Common.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\bin\Release\SMMS.UserMGT.DAL.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\bin\Release\SMMS.UserMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\obj\Release\SMMS.UserMGT.BL.csprojAssemblyReference.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\obj\Release\SMMS.UserMGT.BL.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\obj\Release\SMMS.UserMGT.BL.csproj.CopyComplete
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\obj\Release\SMMS.UserMGT.BL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.BL\obj\Release\SMMS.UserMGT.BL.pdb

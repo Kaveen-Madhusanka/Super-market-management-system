@@ -1,0 +1,11 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\bin\Release\SMMS.IMGT.DAL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\bin\Release\SMMS.IMGT.DAL.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\bin\Release\SMMS.Common.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\bin\Release\SMMS.IMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\bin\Release\SMMS.Common.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\bin\Release\SMMS.IMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\obj\Release\SMMS.IMGT.DAL.csprojAssemblyReference.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\obj\Release\SMMS.IMGT.DAL.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\obj\Release\SMMS.IMGT.DAL.csproj.CopyComplete
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\obj\Release\SMMS.IMGT.DAL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.IMGT.DAL\obj\Release\SMMS.IMGT.DAL.pdb

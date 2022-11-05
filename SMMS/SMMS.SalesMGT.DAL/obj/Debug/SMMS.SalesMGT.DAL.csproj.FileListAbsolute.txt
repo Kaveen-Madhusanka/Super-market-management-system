@@ -1,0 +1,11 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\bin\Debug\SMMS.SalesMGT.DAL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\bin\Debug\SMMS.SalesMGT.DAL.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\bin\Debug\SMMS.Common.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\bin\Debug\SMMS.SalesMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\bin\Debug\SMMS.Common.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\bin\Debug\SMMS.SalesMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\obj\Debug\SMMS.SalesMGT.DAL.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\obj\Debug\SMMS.SalesMGT.DAL.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\obj\Debug\SMMS.SalesMGT.DAL.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\obj\Debug\SMMS.SalesMGT.DAL.csproj.AssemblyReference.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.SalesMGT.DAL\obj\Debug\SMMS.SalesMGT.DAL.csproj.CopyComplete

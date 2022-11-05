@@ -1,0 +1,6 @@
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\bin\Debug\SMMS.UserMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\bin\Debug\SMMS.UserMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\obj\Debug\SMMS.UserMGT.Domain.csproj.CoreCompileInputs.cache
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\obj\Debug\SMMS.UserMGT.Domain.dll
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\obj\Debug\SMMS.UserMGT.Domain.pdb
+E:\SIBA\2nd chapter\project work\SMMS\SMMS\SMMS.UserMGT.Domain\obj\Debug\SMMS.UserMGT.Domain.csproj.AssemblyReference.cache
